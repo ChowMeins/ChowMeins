@@ -54,4 +54,4 @@ Here's what I generally work with for projects!
 
 ---
 
-Thanks for visiting my GitHub! I’m always open to learning opportunities, feedback, collaborations, or just chatting about cool projects. 😊
+Thanks for visiting my GitHub! 😊

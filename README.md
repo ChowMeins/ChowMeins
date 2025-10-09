@@ -2,7 +2,7 @@
 
 **Aspiring Software Engineer | Based in Texas**
 
-I recently graduated with a **B.S. in Software Engineering** from UTD and am passionate about building software that blends creativity with practical impact. I enjoy working on side projects, open source contributions, automation, and web development. Right now, I am currently learning about Machine Learning, Deep Learning, and computer Vision!
+I recently graduated with a **B.S. in Software Engineering** from UTD and am passionate about building software that blends creativity with practical impact. I enjoy working on side projects, open source contributions, automation, and web development. Right now, I am currently learning about Machine Learning, Deep Learning, and Computer Vision!
 
 ---
 
